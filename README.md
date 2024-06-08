@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-    <img src="https://img.shields.io/badge/React-239120?style=for-the-badge&logo=csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/React-67C9E2?style=for-the-badge&logo=react&logoColor=white">
   </a>
 </p>
 
