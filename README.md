@@ -4,7 +4,7 @@
 
 <p id="doit" align="left">
   <p>
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
+    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-9B870C?style=for-the-badge&logo=javascript&logoColor=white">
     <img src="https://img.shields.io/badge/React-1A8EAC?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/three.js-242424?style=for-the-badge&logo=three.js&logoColor=white">
