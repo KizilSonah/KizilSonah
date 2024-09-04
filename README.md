@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="card.png" style="width: 66%; height: auto;"/>
+  <img src="card.png" style="width: 75%; height: auto;"/>
 </p>
 
 <p id="doit" align="left">
