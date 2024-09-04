@@ -1,6 +1,3 @@
-<!--img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e51a4c&height=200&section=header&text=Kyzyl%20Sonah🌺&fontSize=90&animation=fadeIn&rotate=-2.5&stroke=d4af37&strokeWidth=2&desc=Only%20Use%20Text&descAlignY=75&descAlign=60"/>
-
-<h1> Kyzyl Sonah 🌺</h1-->
 <p align="center">
   <img src="header.png" style="width: 66%; height: auto;"/>
 </p>
