@@ -15,7 +15,6 @@
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl">
-  </p>
     <img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua">
   </p>
 </p>
