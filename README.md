@@ -31,7 +31,7 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Ada](http://img.shield.io/badge/Ada-005a00?style=for-the-badge&logo=ada)
+![Ada](http://img.shields.io/badge/Ada-005a00?style=for-the-badge&logo=ada)
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua)
 
